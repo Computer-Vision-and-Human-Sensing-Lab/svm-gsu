@@ -1,5 +1,7 @@
 # svm-gsu
 
+**This a fork from the repo of the first author of our paper -- most recent upadates will appear first there.**
+
 *A C++ framework for training/testing the Support Vector Machine with Gaussian Sample Uncertainty (SVM-GSU).*
 
 <p align="center">
